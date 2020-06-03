@@ -32,10 +32,12 @@ Any Windows/Mac/Linux distribution
 
 3)open the folder and open the code in any of your preferred editor or an IDE.
 
-4)Save the code and run In UI Editor the.
+4)Save the code and run the code.
 
-5)You will be displayed with the menu choice of various options.The operations act upon the record file.
+5)It will Open UI Containing Two Buttons Compression and Decompreesion Choose the Options in which You want to Perform the Operations.
 
-6)Choose the option of your choice to be executed.
+6)You will be displayed with the menu choice of various options.The operations act upon the record file.
 
-7)Check the lzw files which are generated in the respective folder after execution.
+7)Choose the option of your choice to be executed.
+
+8)Check the lzw files which are generated in the respective folder after execution.
