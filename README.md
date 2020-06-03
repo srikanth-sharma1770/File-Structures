@@ -1,8 +1,8 @@
-File-Structures
+#File-Structures
 This contains files and report of my mini project based on "Text File Compression Using LZW Algorithm"
 
 
-#ABSTRACT
+# ABSTRACT
 
 
 
@@ -17,25 +17,25 @@ It Can be Implemented Through the idea of the Compression Algorithms as the inpu
  
 This project has been created using Eclipse, with the platform WINDOWS. The project title-“Text File Compression” talks about how we Compress the Given File and data accepted from the USER Interface(UI) and also use it to retrieve	Information.
 v
-REQUIREMENTS
+# REQUIREMENTS
 JDK - Java Development Kit.
 
 Any Text editors (IDE preferred - Eclipse,Net-beans etc.)
 
 Any Windows/Mac/Linux distribution
 
-INSTRUCTIONS TO RUN THE CODES
+# INSTRUCTIONS TO RUN THE CODES
 
-Clone or download the zip file.
+1)Clone or download the zip file.
 
-Unzip the downloaded file.
+2)Unzip the downloaded file.
 
-open the folder and open the code in any of your preferred editor or an IDE.
+3)open the folder and open the code in any of your preferred editor or an IDE.
 
-Save the code and run In UI Editor the.
+4)Save the code and run In UI Editor the.
 
-You will be displayed with the menu choice of various options.The operations act upon the record file.
+5)You will be displayed with the menu choice of various options.The operations act upon the record file.
 
-Choose the option of your choice to be executed.
+6)Choose the option of your choice to be executed.
 
-Check the lzw files which are generated in the respective folder after execution.
+7)Check the lzw files which are generated in the respective folder after execution.
